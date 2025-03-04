@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312196962752",
+    "project_id": "eticketing-e383a",
+    "storage_bucket": "eticketing-e383a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312196962752:android:c05763000d9344e070d025",
+        "android_client_info": {
+          "package_name": "com.example.eticketingprototype"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHA-Vlemk2aL63vzoRfvRB-YyRkEOv-98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
